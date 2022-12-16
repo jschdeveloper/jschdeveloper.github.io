@@ -2,7 +2,7 @@
 
 The main goal of this page is to describe my career as a Software engineer. I divided the page into sections:
 
-- Myself introduction
+- Introduction
 - Certifications and courses
 - Current job
 - Projects
